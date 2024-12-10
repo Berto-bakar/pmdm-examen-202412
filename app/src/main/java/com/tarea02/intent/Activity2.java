@@ -6,6 +6,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
+import es.jcyl.educa.fray.pmdm.examen202412.R;
+
 public class Activity2 extends AppCompatActivity {
 
     TextView returnTextView;

@@ -2,6 +2,12 @@
 
 Yo he conseguido por lo menos modificar el readme
 
+Para abrir el proyecto:
+
+- iniciar Android Studio
+- Decirle la carpeta donde he descomprimido el archivo
+
+
 ## Prerequisitos necesarios en una máquina Windows
 
 - Android Studio
@@ -19,13 +25,20 @@ Yo he conseguido por lo menos modificar el readme
 ## Eliminación de código no utilizado
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
 - "Borrar la carpeta .idea, ya que son ficheros del IDE del desarrollador y pueden interferir con el correcto funcionamiento en otro IDE de otro desarrollador."
+
+esto lo he hecho
+
 - "Borrar el fichero app\src\main\res\layout\layout_delete_me, ya que este fichero no se usa."
+
+esto también
 
 ## Arreglar errores existentes
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Nulla feugiat felis non nulla vestibulum, id varius libero suscipit.
+
+
 
 ## Realizar modificaciones de mejora
 

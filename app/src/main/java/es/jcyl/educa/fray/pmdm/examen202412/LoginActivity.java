@@ -1,15 +1,14 @@
 package es.jcyl.educa.fray.pmdm.examen202412;
 
 import android.content.Intent;
-import android.content.Intent;
-import android.content.IntentBuilder;
 import android.os.Bundle;
 import android.widget.Button;
-import android.widget.Toast;
-import android.widget.Toast;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+
 
 public class LoginActivity extends AppCompatActivity {
 

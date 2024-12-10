@@ -1,6 +1,6 @@
 # PMDM Examen Práctico Diciembre 2024
 
-Esta aplicación permite al usuario logearse en la página de su departamento.
+Yo he conseguido por lo menos modificar el readme
 
 ## Prerequisitos necesarios en una máquina Windows
 

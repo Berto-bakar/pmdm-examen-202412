@@ -38,7 +38,7 @@ esto también
 ## Arreglar errores existentes
 
 
-
+he arreglado cosas, de tal manera que por lo menos sale me sale mi práctica al darle a ejecutar
 
 ## Realizar modificaciones de mejora
 
